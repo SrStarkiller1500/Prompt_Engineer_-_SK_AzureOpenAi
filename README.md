@@ -26,7 +26,7 @@ O **Azure OpenAI** oferece acesso a poderosos modelos de IA, como GPT-3, GPT-4, 
 2. No portal do Azure, crie um novo **recurso do Azure OpenAI**. Você precisará escolher uma região e uma assinatura.
 3. Após a criação do recurso, você terá acesso às credenciais (chave de API e endpoint) necessárias para interagir com a API do OpenAI.
 
-### Fazendo uma Chamada à API do Azure OpenAI
+### Fazendo uma Chamada à API do Azure OpenAI utilizando JAVA
 
 Aqui está um exemplo de como fazer uma chamada à API do Azure OpenAI usando **Java** com a biblioteca **HttpURLConnection**:
 
