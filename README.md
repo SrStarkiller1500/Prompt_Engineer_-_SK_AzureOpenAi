@@ -28,7 +28,7 @@ O **Azure OpenAI** oferece acesso a poderosos modelos de IA, como GPT-3, GPT-4, 
 
 ### Fazendo uma Chamada à API do Azure OpenAI utilizando JAVA
 
-Aqui está um exemplo de como fazer uma chamada à API do Azure OpenAI usando **Java** com a biblioteca **HttpURLConnection**:
+
 
 ```java
 import java.io.BufferedReader;
